@@ -1,0 +1,22 @@
+# Tech Syndicate Solutions
+
+> Tech Syndicate Solutions is a software studio based in Puducherry and Bengaluru, India. We build SaaS platforms, business websites and mobile apps end to end.
+
+- Website: https://rasheedrahman.github.io/tech-syndicate-solutions/
+
+## Team
+- Mohamed Rasheed Rahman — Full-Stack & Mobile Developer (React, FastAPI, Flutter, AWS)
+- Gokul B — Creative Developer, Next.js & 3D web experiences (also SEO, GEO, AEO)
+
+## Services
+- Web applications: React and Next.js dashboards, POS systems and internal tools
+- Mobile apps: cross-platform Flutter apps shipped to Google Play and the App Store
+- Backend and APIs: FastAPI, Node.js and GraphQL with PostgreSQL or MongoDB
+- Cloud and DevOps: AWS S3, CloudFront, ECS, ECR and Docker
+- 3D and motion: Three.js and GSAP scroll experiences
+- SEO, GEO and AEO: schema, speed and AI-search visibility
+
+## Contact
+- Email: hello.techduo@gmail.com
+- WhatsApp: +91 97902 41289
+- GitHub: https://github.com/RasheedRahman and https://github.com/gokulbaskar007-dev

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rasheedrahman.github.io/tech-syndicate-solutions/sitemap.xml
