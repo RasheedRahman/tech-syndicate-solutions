@@ -363,7 +363,7 @@
         (email ? `\nReach me at: ${email}` : "");
 
       window.open(`https://wa.me/919790241289?text=${encodeURIComponent(body)}`, "_blank", "noopener");
-      if (note) note.textContent = "Opening WhatsApp — if nothing happened, email hello.techduo@gmail.com.";
+      if (note) note.textContent = "Opening WhatsApp — if nothing happened, email rasheedrah6@gmail.com.";
     });
   }
 

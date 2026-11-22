@@ -7,7 +7,7 @@ window.TD = {
   brand: {
     name: "Tech Syndicate Solutions",
     tagline: "A product studio for web, mobile and cloud.",
-    email: "hello.techduo@gmail.com",
+    email: "rasheedrah6@gmail.com",
     location: "Puducherry & Bengaluru, India",
   },
 
