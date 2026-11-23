@@ -127,13 +127,13 @@ window.TD = {
       stack: ["React", "FastAPI", "MongoDB", "Flutter", "AWS", "PhonePe"],
       images: [
         "assets/img/work/sopzy-7.webp",
+        "assets/img/work/sopzy-8.webp",
         "assets/img/work/sopzy-1.webp",
         "assets/img/work/sopzy-2.webp",
         "assets/img/work/sopzy-3.webp",
         "assets/img/work/sopzy-4.webp",
         "assets/img/work/sopzy-5.webp",
         "assets/img/work/sopzy-6.webp",
-        "assets/img/work/sopzy-8.webp",
       ],
     },
     {
