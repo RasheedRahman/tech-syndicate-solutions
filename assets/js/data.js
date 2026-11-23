@@ -126,6 +126,7 @@ window.TD = {
       desc: "Multi-platform restaurant POS: React admin with dashboard analytics, Captain POS, KOT and QR dine-in ordering, a Flutter customer app with UPI payments and live rider tracking, and a Flutter delivery partner app. FastAPI + MongoDB backend with JWT role-based access, split cash + UPI payments, and AWS deployment.",
       stack: ["React", "FastAPI", "MongoDB", "Flutter", "AWS", "PhonePe"],
       images: [
+        "assets/img/work/sopzy-7.webp",
         "assets/img/work/sopzy-1.webp",
         "assets/img/work/sopzy-2.webp",
         "assets/img/work/sopzy-3.webp",
@@ -145,6 +146,7 @@ window.TD = {
       desc: "Full cab booking ecosystem: React admin with live map, rides, drivers, companies and per-driver rates; FastAPI + MongoDB backend with WebSocket live tracking, nearest-driver dispatch, wallets, SOS and ratings; plus Flutter customer and driver apps.",
       stack: ["React", "FastAPI", "WebSocket", "Leaflet", "Flutter", "MongoDB"],
       images: [
+        "assets/img/work/carr-1.webp",
         "assets/img/work/carr-2.webp",
         "assets/img/work/carr-3.webp",
         "assets/img/work/carr-4.webp",
@@ -179,6 +181,7 @@ window.TD = {
       desc: "Member platform for a radio society: digital ID, KNET-paid subscriptions and renewals, training and event registration, news and member chat — backed by a Node.js + GraphQL API on Google Cloud with Firebase auth and push notifications.",
       stack: ["Flutter", "GetX", "GraphQL", "Node.js", "PostgreSQL", "KNET"],
       images: [
+        "assets/img/work/kars-5.webp",
         "assets/img/work/kars-6.webp",
         "assets/img/work/kars-1.webp",
         "assets/img/work/kars-2.webp",
@@ -206,6 +209,7 @@ window.TD = {
       desc: "Cross-platform healthcare app for patients and doctors plus an admin portal — real-time chat, form workflows, push notifications and GraphQL subscriptions, built with Clean Architecture.",
       stack: ["Flutter", "GraphQL", "BLoC", "Hive", "FCM"],
       images: [
+        "assets/img/work/drmeshal-8.webp",
         "assets/img/work/drmeshal-9.webp",
         "assets/img/work/drmeshal-1.webp",
         "assets/img/work/drmeshal-2.webp",
