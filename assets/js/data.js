@@ -8,7 +8,7 @@ window.TD = {
     name: "Tech Syndicate Solutions",
     tagline: "A product studio for web, mobile and cloud.",
     email: "rasheedrah6@gmail.com",
-    location: "Puducherry & Bengaluru, India",
+    location: "Puducherry, India",
   },
 
   marquee: [
@@ -89,7 +89,7 @@ window.TD = {
       name: "Gokul B",
       short: "Gokul",
       role: "Creative Developer — Next.js & 3D Web",
-      location: "Bengaluru, India",
+      location: "Puducherry, India",
       photo: "assets/img/team/gokul.webp",
       bio: "Head of Creative Developer at Beta Digital Marketing. Leads how sites look, move and perform — hand-coded Next.js builds, 3D scroll experiences and full-stack apps, with 25+ business websites delivered before that.",
       focus: "Next.js · 3D web · Search visibility",

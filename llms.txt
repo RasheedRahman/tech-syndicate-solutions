@@ -1,6 +1,6 @@
 # Tech Syndicate Solutions
 
-> Tech Syndicate Solutions is a software studio based in Puducherry and Bengaluru, India. We build SaaS platforms, business websites and mobile apps end to end.
+> Tech Syndicate Solutions is a software studio based in Puducherry, India. We build SaaS platforms, business websites and mobile apps end to end.
 
 - Website: https://rasheedrahman.github.io/tech-syndicate-solutions/
 
